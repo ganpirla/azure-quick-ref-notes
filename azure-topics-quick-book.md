@@ -1,6 +1,6 @@
 	✓	Azure Storage Account
 
-	⁃	Access Keys  -  Gives access at Storage accunt level, which means all the blobs, file shares will be accessible 
+	⁃	Access Keys  -  Gives access at Storage accunt level, which means all the containers and its blobs, file shares will be accessible 
 	⁃	shared Access Signatures
 	⁃	Access Policies
 	⁃	Active Directory
