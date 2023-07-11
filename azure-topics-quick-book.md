@@ -3,7 +3,8 @@
 	⁃	Access Keys  -  Gives access at Storage accunt level, which means all the containers and its blobs, file shares will be accessible 
 	⁃	shared Access Signatures - Blob level - We can control access levels from individual blobs level and with specific time period.
                                            Storage Account level - W will have a control to create access to rstrict perticulor service like - blob or file           					   share.with time duration and access permissions as well,
-	⁃	Access Policies
+	⁃	Access Policies  -  Will give more control to handle shared acess signatures as SAS will only get deactivate after given access expiry day and 
+                                     time, inorder to have a control over containers to take quick action which are having SAS we can use access polocies
 	⁃	Active Directory
 	⁃	Storage Account Replications
 
